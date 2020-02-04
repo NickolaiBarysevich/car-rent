@@ -1,0 +1,5 @@
+.dropdown-item:active {
+    color: black !important;
+    text-decoration: none !important;
+    background-color: white !important;
+}
